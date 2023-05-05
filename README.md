@@ -14,10 +14,10 @@ HikeHubV2 is a SwiftUI-based iOS app that helps users find nearby parks and hiki
 
 ## At the bottom of the main screen, there are two buttons:
 
-#### Parks Near Me: Displays a list of nearby parks along with detailed information about each park.
-#### Saved Trails: Shows a list of user's saved trails.
-
-    - Clicking on either button will bring up a new screen with the corresponding content.
+### Parks Near Me: 
+  - Displays a list of nearby parks along with detailed information about each park.
+### Saved Trails: 
+  - Shows a list of user's saved trails.
 
 ## Requirements:
 
